@@ -1,2 +1,2 @@
 # DesignPattern
-This repo is mainly for design patterns
+different design patterns
